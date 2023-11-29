@@ -10,9 +10,9 @@ p{
 {background-image:linear-gradient(#806474,#D277C0)
     color:blue;}
 header{
-    padding:20px;
-    background-color:#3c0142;
+    padding: 20px;
+    background-color: #3c0142;
     border-bottom: 2px solid white;
     font-size: 32px;
-    color: white;
+    color:  white;
 }
